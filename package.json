@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alin-rautoiu/test-npm.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "alinrautoiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alin-rautoiu/test-npm/issues"
+  },
+  "homepage": "https://github.com/alin-rautoiu/test-npm#readme"
+}
